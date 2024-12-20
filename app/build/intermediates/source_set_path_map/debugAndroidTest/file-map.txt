@@ -1,0 +1,9 @@
+com.example.android.testing.espresso.BasicSample.test.app-annotation-experimental-1.1.0-0 /Users/gustavorocha/.gradle/caches/transforms-3/171a5bc76cdf4761617add8572588470/transformed/annotation-experimental-1.1.0/res
+com.example.android.testing.espresso.BasicSample.test.app-core-1.4.1-alpha05-1 /Users/gustavorocha/.gradle/caches/transforms-3/f52a6ba6b07ccb3c1af5f85ff4b1358a/transformed/core-1.4.1-alpha05/res
+com.example.android.testing.espresso.BasicSample.test.app-androidTest-2 /Users/gustavorocha/Documents/SandBox_Kotlin/app/build/generated/res/resValues/androidTest/debug
+com.example.android.testing.espresso.BasicSample.test.app-androidTest-3 /Users/gustavorocha/Documents/SandBox_Kotlin/app/build/generated/res/rs/androidTest/debug
+com.example.android.testing.espresso.BasicSample.test.app-mergeDebugAndroidTestResources-4 /Users/gustavorocha/Documents/SandBox_Kotlin/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.android.testing.espresso.BasicSample.test.app-mergeDebugAndroidTestResources-5 /Users/gustavorocha/Documents/SandBox_Kotlin/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.android.testing.espresso.BasicSample.test.app-merged_res-6 /Users/gustavorocha/Documents/SandBox_Kotlin/app/build/intermediates/merged_res/debugAndroidTest
+com.example.android.testing.espresso.BasicSample.test.app-androidTest-7 /Users/gustavorocha/Documents/SandBox_Kotlin/app/src/androidTest/res
+com.example.android.testing.espresso.BasicSample.test.app-androidTestDebug-8 /Users/gustavorocha/Documents/SandBox_Kotlin/app/src/androidTestDebug/res

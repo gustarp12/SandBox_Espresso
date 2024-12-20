@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorKtTest" tests="1" failures="0" errors="0" skipped="0" time="14.512" timestamp="2024-12-20T18:21:12" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="changeText_newActivity" classname="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorKtTest" time="12.095" />
+</testsuite>

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.testing.espresso.BasicSample.test.app-mergeDebugAndroidTestResources-4:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/gustavorocha/.gradle/caches/transforms-3/f52a6ba6b07ccb3c1af5f85ff4b1358a/transformed/core-1.4.1-alpha05/res/values-v28/values.xml",
+                    "from": {
+                        "startLines": "4,13",
+                        "startColumns": "0,0",
+                        "startOffsets": "180,659",
+                        "endLines": "12,21",
+                        "endColumns": "8,8",
+                        "endOffsets": "658,1135"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,538",
+                        "endLines": "10,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "533,1014"
+                    }
+                }
+            ]
+        }
+    ]
+}
